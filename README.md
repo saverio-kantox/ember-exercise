@@ -35,9 +35,13 @@ to be flexible regarding our pricing rules.
 
 ## Deliverables:
 
-- A view where the user can add items to the basket
-- A component that displays the total amount of the basket (discounts applied)
-- A service or similar that is responsible of calculating said total amount
+- A shop route where the user can view all available items and add to basket (a quantity selector would be nice).
+- A checkout route where the user can view all items in his basket with:
+  1. The original prices
+  2. All the discounts currently applied
+  3. The total price of the basket after discounts applied
+- Some navigation implementation between the routes.
+- A service or similar that is responsible of calculating and persisting total amount.
 
 The application must be demoable without an actual backend (use some approriate
 client-side API server for demoing)

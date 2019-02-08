@@ -37,7 +37,7 @@ to be flexible regarding our pricing rules.
 
 - A shop route where the user can view all available items and add to basket (a quantity selector would be nice).
 - A checkout route where the user can view all items in his basket with:
-  1. The original prices
+  1. The quantity of each item and the original prices
   2. All the discounts currently applied
   3. The total price of the basket after discounts applied
 - Some navigation implementation between the routes.

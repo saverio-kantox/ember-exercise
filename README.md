@@ -1,6 +1,6 @@
 ## Task Description
 
-You are the lead FE programmer for a small web shop. You are required to make a simple
+You are the lead FE programmer for a small web shop. You are required, using the Ember javascript framework, to make a simple
 page where the user can add products to a cart, and the total of the cart is updated
 in real time.
 
